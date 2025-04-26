@@ -1,4 +1,20 @@
 #CuccuHub.lua
+-- Tải thư viện giao diện
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/leviroblox/Cuccu-Hub/main/Library.lua"))()
+
+-- Tạo cửa sổ chính
+local Window = Library:Window("Cuccu Hub", "https://raw.githubusercontent.com/leviroblox/Cuccu-Hub/main/05CFC10B-D601-47FB-8EBB-132009E18102.png")
+
+-- Tạo Tab "Main"
+local Tab = Window:Tab("Main")
+
+-- Thêm nút Auto Farm
+Tab:Button("Auto Farm", function()
+    -- Gọi hàm auto farm ở đây
+end)
+
+-- (Tiếp tục thêm các Tab khác như Boss Farm, Teleport, v.v. nếu bạn muốn)
+
 local autofarm = false
 AutoFarmTab:CreateToggle({
     Name = "Auto Farm Level",
