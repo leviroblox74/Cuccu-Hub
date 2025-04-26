@@ -1,3 +1,4 @@
+#CuccuHub.lua
 local autofarm = false
 AutoFarmTab:CreateToggle({
     Name = "Auto Farm Level",
