@@ -21,7 +21,7 @@
 2. Dán đoạn code này vào executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/<username>/Cuccu-Hub/main/CuccuHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/leviroblox/Cuccu-Hub/main/CuccuHub.lua"))()
 
 ![Cuccu Hub Icon](https://raw.githubusercontent.com/leviroblox/Cuccu-Hub/main/assets/![05CFC10B-D601-47FB-8EBB-132009E18102](https://github.com/user-attachments/assets/c4e01440-5f31-48fa-8d31-4da10dabb751)
 )
