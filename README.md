@@ -22,3 +22,5 @@
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/<username>/Cuccu-Hub/main/CuccuHub.lua"))()
+
+![Cuccu Hub Icon](https://raw.githubusercontent.com/leviroblox/Cuccu-Hub/main/assets/icon.jpg)
